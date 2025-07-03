@@ -22,7 +22,6 @@
 - 📚 Subjects: `OOP`, `DBMS`
 
 ---
-
 ### 🚀 Projects
 
 #### 🧬 Fitness Hub
@@ -31,6 +30,12 @@
 🔗 [View Project on GitHub](https://github.com/SouvagyaCode/Fitness-Hub)
 
 ---
+
+#### 🎬 MovieReview
+> A web app that allows users to submit and read reviews for movies. Built using **Flask**, **HTML/CSS**, and a lightweight **SQLite database** for storing user reviews. A great beginner project for learning web dev and CRUD operations.
+
+🔗 [View Project on GitHub](https://github.com/SouvagyaCode/MovieReview)
+
 
 ### 🏆 Achievements
 
