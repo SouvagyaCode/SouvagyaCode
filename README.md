@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Souvagya Dey</h1>
-<h3 align="center">🚀 Passionate CSE student | 🧠 Problem Solver | 💻 Web Developer</h3>
+<h3 align="center">🚀 Passionate CSE Student | 🧠 Problem Solver | 💻 Web Developer</h3>
 
 <p align="center">
   <a href="mailto:deysouvagya723@gmail.com"><img src="https://img.shields.io/badge/Email-deysouvagya723@gmail.com-blue?style=flat&logo=gmail" /></a>
@@ -10,44 +10,48 @@
 ---
 
 ### 🎯 Career Objective
-> A passionate Computer Science student with a solid background in programming, problem-solving, and web development. Eager to explore emerging technologies and apply them to practical, impactful solutions.
+> A Computer Science student with a strong foundation in programming and web development. I’m passionate about building meaningful applications, solving problems, and exploring emerging technologies to drive impact.
 
 ---
 
 ### 💻 Skills
 
 - 👨‍💻 Programming: `Python`, `C`
-- 🌐 Web Development: `HTML`, `CSS`, `Flask`
-- 🗃️ Database: `MySQL`, `SQL`
+- 🌐 Web Development: `HTML`, `CSS`, `Flask`, `Django`
+- 🗃️ Database: `MySQL`, `SQLite`
 - 📚 Subjects: `OOP`, `DBMS`
 
 ---
+
 ### 🚀 Projects
 
-#### 🧬 Fitness Hub
-> A web application built using **Flask**, **HTML**, and **CSS** that provides personalized diet plans and recommends exercises based on selected muscle groups and difficulty levels.
+#### 🧬 Fitness Hub  
+> A web app built using **Flask**, **HTML**, and **CSS** that provides personalized diet plans and recommends exercises based on selected muscle groups and difficulty levels.
 
-🔗 [View Project on GitHub](https://github.com/SouvagyaCode/Fitness-Hub)
+🔗 [View on GitHub](https://github.com/SouvagyaCode/Fitness-Hub)
 
 ---
 
-#### 🎬 MovieReview
-> A web app that allows users to submit and read reviews for movies. Built using **Flask**, **HTML/CSS**, and a lightweight **SQLite database** for storing user reviews. A great beginner project for learning web dev and CRUD operations.
+#### 🎬 Cineera  
+> A **Django** web application to **submit**, **read**, and **comment** on movie reviews with built-in **sentiment analysis**. Reviews are automatically labeled as Positive, Negative, or Neutral using basic NLP. Features include CRUD operations, user interaction, and a clean UI.
 
-🔗 [View Project on GitHub](https://github.com/SouvagyaCode/MovieReview)
+🔗 [View on GitHub](https://github.com/SouvagyaCode/MovieReview)
 
+---
 
 ### 🏆 Achievements
 
-- 🥇 Selected at college level and participated in **Smart India Hackathon (SIH) 2024**
+- 🥇 Selected and participated in **Smart India Hackathon (SIH) 2024**
 - 📜 Completed **Crash Course on Python** by Google
 
 ---
 
 ### ⚙️ Tools & Technologies
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -67,9 +71,9 @@
 
 ### 💬 Fun Facts
 
-- 🧩 I enjoy solving real-world problems with code
-- 📺 I love watching tech videos & cycling 🚴‍♂️
+- 🧩 I enjoy solving real-world problems through code  
+- 📺 I love watching tech videos & cycling 🚴‍♂️  
 
 ---
 
-> _"Code to solve. Code to empower."_ 🚀  
+> _"Code to solve. Code to empower."_ 🚀
